@@ -1,0 +1,16 @@
+---
+title: "Application Development as a Solution to Unmet Needs in Laboratory Workflows"
+author: "Amrom Obstfeld AACC 2021, Session 35104"
+date: "30-Sep-2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+header-includes:
+- \usepackage{hyperref}
+- \hypersetup{colorlinks = false,pdfborder={1 1 1}}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
